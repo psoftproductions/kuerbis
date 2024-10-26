@@ -1,0 +1,24 @@
+body {
+    background-color: azure;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+img {
+    width: 900px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.content div {
+    background-color: antiquewhite;
+    margin-bottom: 100px;
+    border:3px solid black;
+}
+h1 {
+    font-size: 100px;
+}
+h3 {
+    font-size: 50px;
+}
